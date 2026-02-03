@@ -5,7 +5,8 @@
 マウスカーソルに「ゴム紐」のような物理演算ベースの軌跡を追加する、Windows用デスクトップアクセサリーです。
 マウスの動きに合わせて、滑らかで生き物のようなラインが追いかけてきます。
 
-![Demo Screenshot](https://via.placeholder.com/600x400?text=Screenshot+Here)
+![BlurCursor](https://github.com/user-attachments/assets/f5c5006e-5838-422c-b290-7559ae1cc2d0)
+
 ## ✨ 特徴 (Features)
 
 * **物理演算**: バネの法則（フックの法則）を応用した、独特な浮遊感のある動き。
